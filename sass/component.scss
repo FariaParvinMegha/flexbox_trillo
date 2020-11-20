@@ -1,0 +1,25 @@
+.logo{
+    height: 3.25rem;
+}
+
+.search{
+    &-icon{
+        height: 2rem;
+        width: 2rem;
+    }
+}
+
+.user-nav{
+    .icon{
+        height: 2.25rem;
+        width: 2.25rem;
+    }
+    .user-photo{
+        height: 3.75rem;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+}
