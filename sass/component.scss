@@ -232,3 +232,17 @@
     text-align: center;
     padding: 2.5rem;
 }
+
+
+////////////////////////////////////////////
+// gallery photo
+////////////////////////////////////////////
+.gallery{
+    display: flex;
+
+    &-photo{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}

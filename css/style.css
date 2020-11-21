@@ -219,3 +219,10 @@ body {
   color: var(--grey-light-4);
   text-align: center;
   padding: 2.5rem; }
+
+.gallery {
+  display: flex; }
+  .gallery-photo {
+    width: 100%;
+    height: auto;
+    display: block; }
