@@ -90,7 +90,7 @@ body {
   @media only screen and (max-width: 56.25em) {
     .detail {
       padding: 3rem; } }
-  @media only screen and (max-width: 56.25em) {
+  @media only screen and (max-width: 37.5em) {
     .detail {
       flex-direction: column; } }
 
@@ -104,7 +104,7 @@ body {
     .description {
       margin-right: 3rem;
       padding: 2rem; } }
-  @media only screen and (max-width: 56.25em) {
+  @media only screen and (max-width: 37.5em) {
     .description {
       margin-right: 0;
       margin-bottom: 3rem; } }
@@ -454,6 +454,9 @@ body {
     mask-size: cover;
     -webkit-mask-image: url(../img/chevron-thin-right.svg);
     -webkit-mask-size: cover; }
+
+.recommend {
+  background-color: darkgreen; }
 
 .recommend {
   font-size: 1.3rem;
