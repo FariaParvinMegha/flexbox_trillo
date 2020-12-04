@@ -456,9 +456,6 @@ body {
     -webkit-mask-size: cover; }
 
 .recommend {
-  background-color: darkgreen; }
-
-.recommend {
   font-size: 1.3rem;
   color: var(--grey-dark-3);
   display: flex;
